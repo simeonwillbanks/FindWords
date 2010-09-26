@@ -13,13 +13,13 @@ REQUIREMENTS
  
 USAGE
 ----- 
-`>>> python findwords.py ^a{2}  
+\>>> python findwords.py ^a{2}  
 aa  
 aal  
 aalii  
 aam  
 aardvark  
-aardwolf`
+aardwolf
 
 LICENSE
 -------  
